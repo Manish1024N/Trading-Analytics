@@ -25,7 +25,7 @@ A comprehensive trading analysis dashboard built in Power BI, designed to provid
 ![dashboard_snapo](https://github.com/Manish1024N/Trading-Analytics/blob/ead035514bb4534e47288cac2611ba2f1307da28/PAGE%201.png)
  
 # Page 2 of Dashborad
-![dashboard_snapo]()
+![dashboard_snapo](https://github.com/Manish1024N/Trading-Analytics/blob/89a316d2e014dc5f2c111fbd82236813ff777f9a/PAGE%202.png)
 
 # Page 3 of Dashborad
 ![dashboard_snapo]()
