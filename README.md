@@ -21,5 +21,11 @@ A comprehensive trading analysis dashboard built in Power BI, designed to provid
 - Support traders in making data-driven trading decisions with visual insights.
 
 # Snapshot of Dashboard (Power BI Service)
-![dashboard_snapo](
+# Page 1 of Dashborad
+![dashboard_snapo](https://github.com/Manish1024N/Trading-Analytics/blob/ead035514bb4534e47288cac2611ba2f1307da28/PAGE%201.png)
  
+# Page 2 of Dashborad
+![dashboard_snapo]()
+
+# Page 3 of Dashborad
+![dashboard_snapo]()
